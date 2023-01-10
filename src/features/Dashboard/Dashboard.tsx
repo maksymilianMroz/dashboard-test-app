@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import { ListItemProps } from "../../App";
 import { AppItemList } from "./components/AppItemList/AppItemList";
 import { Container } from "./Dashboard.styles";
